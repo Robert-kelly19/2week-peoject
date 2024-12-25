@@ -1,0 +1,24 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  height: 30px;
+  width: 100px;
+  background-color: transparent;
+  border-radius: 5px;
+  border: solid black 1px;
+}
+button img {
+  height: 25px;
+  padding-top: 1px;
+}
+
+#dark{
+  display: none;
+}
+
+#light{
+  margin-left: -60px;
+}
